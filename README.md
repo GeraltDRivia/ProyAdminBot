@@ -20,6 +20,6 @@ Estas estan localizadas en los archivos `hibernate.cfg.xml` y `application.prope
 
 > 4. El Nombre de nuestro bot es [RapiPedidosGUA](https://t.me/ProyOneBot).
 
-![](resources/images/1.jpg){width='50px'}
+![](resources/images/1.jpg)
 
 
